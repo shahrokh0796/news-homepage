@@ -92,7 +92,6 @@ header {
     font-weight: 500;
     font-size: 1.2rem;
     color: var(--color-dark-grayish-blue);
-    // transition: color 250ms ease;
     margin-inline-start: var(--onepoint-5rem);
   }
 
@@ -257,7 +256,7 @@ nav.responsive {
     visibility: visible;
     position: fixed;
     z-index: 1;
-    right: 0.8rem; top: 1rem;
+    right: 1.8rem; top: 1rem;
     display: block;
     border: none;
   }
